@@ -1,0 +1,33 @@
+c:\users\mohsen\documents\visual studio 2015\Projects\LaserBird\LaserBird\bin\Debug\LaserBird.exe.config
+c:\users\mohsen\documents\visual studio 2015\Projects\LaserBird\LaserBird\bin\Debug\LaserBird.exe
+c:\users\mohsen\documents\visual studio 2015\Projects\LaserBird\LaserBird\bin\Debug\LaserBird.pdb
+c:\users\mohsen\documents\visual studio 2015\Projects\LaserBird\LaserBird\obj\Debug\LaserBird.csprojResolveAssemblyReference.cache
+c:\users\mohsen\documents\visual studio 2015\Projects\LaserBird\LaserBird\obj\Debug\LaserBird.Properties.Resources.resources
+c:\users\mohsen\documents\visual studio 2015\Projects\LaserBird\LaserBird\obj\Debug\LaserBird.csproj.GenerateResource.Cache
+c:\users\mohsen\documents\visual studio 2015\Projects\LaserBird\LaserBird\obj\Debug\LaserBird.exe
+c:\users\mohsen\documents\visual studio 2015\Projects\LaserBird\LaserBird\obj\Debug\LaserBird.pdb
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\obj\Debug\LaserBird.LaserBird.resources
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\obj\Debug\LaserBird.frmMain.resources
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\bin\Debug\LaserBird.exe.config
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\obj\Debug\LaserBird.exe
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\obj\Debug\LaserBird.pdb
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\bin\Debug\LaserBird.exe
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\bin\Debug\LaserBird.pdb
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\obj\Debug\LaserBird.csprojResolveAssemblyReference.cache
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\obj\Debug\LaserBird.frmMain.resources
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\obj\Debug\LaserBird.LaserBird.resources
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\obj\Debug\LaserBird.Properties.Resources.resources
+Z:\Share All\کاراموزان\مهندسی صراطی\LaserBird\obj\Debug\LaserBird.csproj.GenerateResource.Cache
+C:\Users\Reza\Desktop\LaserBird\bin\Debug\LaserBird.exe.config
+C:\Users\Reza\Desktop\LaserBird\obj\Debug\LaserBird.exe
+C:\Users\Reza\Desktop\LaserBird\obj\Debug\LaserBird.pdb
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\bin\Debug\LaserBird.exe.config
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Debug\LaserBird.exe
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Debug\LaserBird.pdb
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\bin\Debug\LaserBird.exe
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\bin\Debug\LaserBird.pdb
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Debug\LaserBird.csprojResolveAssemblyReference.cache
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Debug\LaserBird.frmMain.resources
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Debug\LaserBird.LaserBird.resources
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Debug\LaserBird.Properties.Resources.resources
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Debug\LaserBird.csproj.GenerateResource.Cache

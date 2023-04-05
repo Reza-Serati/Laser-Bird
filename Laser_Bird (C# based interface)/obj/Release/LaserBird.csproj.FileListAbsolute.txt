@@ -1,0 +1,33 @@
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\bin\Release\LaserBird.exe.config
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\bin\Release\LaserBird.exe
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\bin\Release\LaserBird.pdb
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\obj\Release\LaserBird.csprojResolveAssemblyReference.cache
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\obj\Release\LaserBird.frmMain.resources
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\obj\Release\LaserBird.LaserBird.resources
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\obj\Release\LaserBird.Properties.Resources.resources
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\obj\Release\LaserBird.csproj.GenerateResource.Cache
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\obj\Release\LaserBird.exe
+C:\Users\Mohsen\Documents\Visual Studio 2015\Projects\LaserBird\LaserBird\obj\Release\LaserBird.pdb
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\bin\Release\LaserBird.exe.config
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Release\LaserBird.exe
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Release\LaserBird.pdb
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\bin\Release\LaserBird.exe
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\bin\Release\LaserBird.pdb
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Release\LaserBird.csprojResolveAssemblyReference.cache
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Release\LaserBird.frmMain.resources
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Release\LaserBird.LaserBird.resources
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Release\LaserBird.Properties.Resources.resources
+E:\Laser_Bird_MIne\Laser_Bird\Last\LaserBird\obj\Release\LaserBird.csproj.GenerateResource.Cache
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\bin\Release\LaserBird.exe.config
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\obj\Release\LaserBird.exe
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\obj\Release\LaserBird.pdb
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\bin\Release\LaserBird.exe
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\bin\Release\LaserBird.pdb
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\obj\Release\LaserBird.csprojResolveAssemblyReference.cache
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\obj\Release\LaserBird.frmMain.resources
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\obj\Release\LaserBird.LaserBird.resources
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\obj\Release\LaserBird.Properties.Resources.resources
+E:\Laser_Bird_MIne\Laser_Bird\New folder\LaserBird\obj\Release\LaserBird.csproj.GenerateResource.Cache
+E:\Laser_Bird_MIne\Laser_Bird\Final 31.10.2018 (2)\LaserBird\bin\Release\LaserBird.exe.config
+E:\Laser_Bird_MIne\Laser_Bird\Final 31.10.2018 (2)\LaserBird\obj\Release\LaserBird.exe
+E:\Laser_Bird_MIne\Laser_Bird\Final 31.10.2018 (2)\LaserBird\obj\Release\LaserBird.pdb
